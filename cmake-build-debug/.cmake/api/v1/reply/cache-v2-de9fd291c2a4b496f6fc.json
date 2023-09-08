@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/sorbo/CLionProjects/Tic Tac Toe/cmake-build-debug"
+			"value" : "c:/Users/sorbo/CLionProjects/Tic Tac Toe/TIc-Tac-Toe/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe"
+			"value" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe/TIc-Tac-Toe"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe/cmake-build-debug"
+			"value" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe/TIc-Tac-Toe/cmake-build-debug"
 		},
 		{
 			"name" : "Tic_Tac_Toe_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe"
+			"value" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe/TIc-Tac-Toe"
 		}
 	],
 	"kind" : "cache",

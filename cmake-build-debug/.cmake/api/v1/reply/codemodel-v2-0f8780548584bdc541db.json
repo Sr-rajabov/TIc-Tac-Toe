@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe/cmake-build-debug",
-		"source" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe"
+		"build" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe/TIc-Tac-Toe/cmake-build-debug",
+		"source" : "C:/Users/sorbo/CLionProjects/Tic Tac Toe/TIc-Tac-Toe"
 	},
 	"version" : 
 	{
