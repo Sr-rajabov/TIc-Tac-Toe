@@ -8,4 +8,5 @@ int main() {
     delete p1;
     delete p2;
     return 0;
+    system("pause");
 }
